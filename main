@@ -86,4 +86,4 @@ async def audio_player_task():
 def toggle_next():
     client.loop.call_soon_threadsafe(play_next_song.set)
 
-client.run('ODY5NzM5MzA4MDgzNDcwMzk2.YQCl2g.lFpBGGmdi-qQlWt6XpVExnGFdEU')
+client.run('')
